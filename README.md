@@ -83,15 +83,4 @@ For sideloaded IPAs, we recommend using **Sideloadly** or certificate-based sign
 
 To open Spotify links in sideloaded app, use [OpenSpotifySafariExtension](https://github.com/BillyCurtis/OpenSpotifySafariExtension). Remember to activate it and allow access in Settings > Safari > Extensions.
 
-## Donations
-
-USDC (ETH)
-
-0x2Bf9F27FBa0eD37940819907a2e732523d4523C1
-
-BTC
-
-3NB6WhB8Krtncq6EnGCFoe35JKh9B1n6eC
-
-
 
